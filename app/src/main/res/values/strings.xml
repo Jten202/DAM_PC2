@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">DAM_JhonnyTenorio</string>
+    <string name="titulo">EXAMEN DE ADMISIÓN 2024</string>
+    <string name="nombre_apell">Apellidos y Nombres</string>
+    <string name="nom_apell" />
+    <string name="correo">Correo Electrónico</string>
+    <string name="Correo" />
+    <string name="txtClave">Clave</string>
+    <string name="Clave" />
+    <string name="txtFecha">Fecha de Nacimento</string>
+    <string name="fecha" />
+    <string name="txtCarrera">Carrera</string>
+    <string name="radBut_IngSistemas">Ingenería de Sistemas</string>
+    <string name="rad_IngAmbiental">Ingeniería Ambiental</string>
+    <string name="rad_IngMecanica">Ingenería Mecánica</string>
+    <string name="rad_Admin">Administración</string>
+    <string name="medio_convocado">¿Por qué medio se enteró de la convocatoria?</string>
+    <string name="cbo_radio">Radio</string>
+    <string name="cbo_Internet">Internet</string>
+    <string name="cbo_amigo">Amigo</string>
+    <string name="cbo_publi">Publicidad</string>
+    <string name="btnEnviar">Enviar</string>
 </resources>
